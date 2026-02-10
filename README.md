@@ -1,6 +1,2 @@
-Green and Serene
-
-Personal flutter project for a veggie/vegan coffee shop in Archway, London.
-All about good coffee, healthy lifestyle and healthy food.
-
-Just experimenting with design, layout, and a simple clean look.
+Green & Serene is a Flutter-based website for a vegetarian/vegan café in Archway, London.
+The project focuses on clean branding, responsive layout, and clear information hierarchy (menu, location, opening times) to create a calm, welcoming user experience.
